@@ -12,7 +12,7 @@
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Carlos-pic" height="150" style="border-radius:50px;" src="https://portifolio-nine-flax.vercel.app/assets/minha_foto.jpg">
+  <img align="right" alt="Carlos-pic" height="150" style="border-radius:50px;" src="https://www.nicepng.com/png/detail/4-41586_dragon-ball-z-png-banner-free-library-dragon.png">
 </div>
   
 <h1></h1>
